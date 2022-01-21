@@ -1,0 +1,11 @@
+﻿  Projeto1.cpp
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(4,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(7,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(8,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(18,13): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(18,13): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(18,13): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(18,13): message : esse argumento é usado como um tamanho do buffer
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(24,32): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+F:\_etec\TPA\Projeto1\Projeto1\Projeto1.cpp(24,32): message : espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 4 foram fornecidos
+  Projeto1.vcxproj -> F:\_etec\TPA\Projeto1\Debug\Projeto1.exe
